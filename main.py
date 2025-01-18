@@ -13,7 +13,7 @@ model_path = f"{working_dir}/{model_file}"
 class_indices_path = f"{working_dir}/class_indices.json"
 
 # Google Drive file ID for the model
-file_id = "1bPvlMiInSsmp6_qCwXusbAqq2D672T2U"  # Replace with your actual file ID
+file_id = "1kVDoPkmpn7GDdX4sM95tK1oM8F5oXLcD"  # Replace with your actual file ID
 url = f"https://drive.google.com/uc?id={file_id}"
 
 # Check if the model already exists locally; if not, download it
